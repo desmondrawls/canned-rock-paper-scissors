@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TitleView has not changed during refactoring 1`] = `
+<div
+  onClick={[Function]}
+>
+  title
+</div>
+`;

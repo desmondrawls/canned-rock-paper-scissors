@@ -10,6 +10,8 @@
     "@types/react-redux": "^7.0.5",
     "@types/redux": "^3.6.0",
     "@types/redux-thunk": "^2.1.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "jest-enzyme": "^7.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^6.0.1",
@@ -32,5 +34,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/enzyme": "^3.9.1",
+    "enzyme": "^3.9.0"
+  }
 }
